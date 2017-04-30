@@ -1,0 +1,46 @@
+{
+	"HotelInfo": 
+	[
+	    {
+	    	"positiveScore":13,
+	    	"totalTopicReviews":23,
+	    	"totalReviewScore":17,
+	    	"negativeScore":4,
+	    	"totalAvailableReviews":188,
+	    	"Name":"Holiday Inn Los Angeles International Airport"
+	    },
+	    {
+	    	"positiveScore":28,
+	    	"totalTopicReviews":52,
+	    	"totalReviewScore":30,
+	    	"negativeScore":4,
+	    	"totalAvailableReviews":364,
+	    	"Name":"Shores Resort and Spa"
+	    },
+	    {
+	    	"positiveScore":0,
+	    	"totalTopicReviews":5,
+	    	"totalReviewScore":4,
+	    	"negativeScore":4,
+	    	"totalAvailableReviews":13,
+	    	"Name":"BEST WESTERN PLUS Eagle Rock Inn"
+	    },
+	    {	
+	    	"positiveScore":20,
+	    	"totalTopicReviews":25,
+	    	"totalReviewScore":20,
+	    	"negativeScore":0,
+	    	"totalAvailableReviews":142,
+	    	"Name":null
+	    },
+	    {
+	    	"positiveScore":35,
+	    	"totalTopicReviews":74,
+	    	"totalReviewScore":40,
+	    	"negativeScore":6,
+	    	"totalAvailableReviews":369,
+	    	"Name":"Four Seasons Hotel George V Paris"
+	    }
+	],
+	"topic":"breakfast"
+}
