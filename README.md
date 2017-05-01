@@ -63,4 +63,5 @@ Contains application constants.
 * I asked about the output format but decided to go with json format so that the output could be used in other tools and services. Also, with JSON format, it would be easy to process the output like displaying over a webpage or in a datatable and could also be provided as a service.
 * This tool could further be optimized by ignoring helping verbs in the review sentence thus working on selective words and analyzing sentiments.
 * More semantics could be added as and when required to the semantics.json file and that will also be processed.
-* 
+* Was not able to complete the project in python as I have only basic knowledge so had to complete it in Java.
+* Honestly, it took me 8 hours to finish up the task till here.
